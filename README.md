@@ -60,22 +60,23 @@ And ensure the permission_handler package is properly configured in your app.
 🧱 Packages Used
 Package	Description
 sqflite	SQLite database for local data storage
-path_provider	Helps access app storage directories
+path_provider	helps access app storage directories
 permission_handler	Requests runtime permissions
-image_picker	Picks images from device gallery
+image_picker	Picks images from the device gallery
 
 📦 Example Product Data
 Field	  Example
-Name	  Nike Air Max
-Category	Shoes
-Price	  25000
-Quantity	15
-Description	 Lightweight running shoe
-Image	   Picked from gallery
+Name:	  Nike Air Max
+Category:	Shoes
+Price:	  25000
+Quantity:	15
+Description: Lightweight running shoe
+Image:	   picked from the gallery
 
 
-Apk link: https://appetize.io/app/b_64b2dkfus5vtxd7aongvwzlk34
+Appetize Apk link: https://appetize.io/app/b_64b2dkfus5vtxd7aongvwzlk34
 Demo-video link: https://drive.google.com/file/d/1qNpUHbFzEEmHkeEYFA7hgc6i1BTbL1r0/view?usp=sharing
+APK file: 
 
 🧑‍💻 Author
 
