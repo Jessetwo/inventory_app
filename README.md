@@ -75,8 +75,10 @@ Image:	   picked from the gallery
 
 
 Appetize Apk link: https://appetize.io/app/b_64b2dkfus5vtxd7aongvwzlk34
+
 Demo-video link: https://drive.google.com/file/d/1qNpUHbFzEEmHkeEYFA7hgc6i1BTbL1r0/view?usp=sharing
-APK file: 
+
+APK file download link: https://drive.google.com/file/d/1oHbBcDpiYN-Qe2Q01OyQdoTerC5c7V3j/view?usp=drive_link 
 
 🧑‍💻 Author
 
